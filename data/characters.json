@@ -1,0 +1,26 @@
+[
+  {
+    "name": "nerd",
+    "life": 20,
+    "energy": 2,
+    "ability": "During your draw step, draw 2 cards instead of 1. Then discard 1 card from your hand."
+  },
+  {
+    "name": "pyro",
+    "life": 20,
+    "energy": 2,
+    "ability": "Once during your turn, you may remove a face down zombie from your horde zone."
+  },
+  {
+    "name": "ninja",
+    "life": 12,
+    "energy": 3,
+    "ability": ""
+  },
+  {
+    "name": "klepto",
+    "life": 20,
+    "energy": 2,
+    "ability": "The maximum number of items allowed in your item zone is increased by 1."
+  }
+]
